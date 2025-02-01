@@ -315,3 +315,9 @@ html, body, .sven-slide, .content-container,
 .sk-double-bounce .sk-child {
     background: none #fff !important;
 }
+
+.splash-page h2 {
+	margin: 0 0 20px;
+    font-size: 23px;
+    line-height: 1.3;
+}
